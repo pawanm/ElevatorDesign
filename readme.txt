@@ -15,7 +15,8 @@ Notes:
 * Queue complexity can be reduced, need to go through again
 
 TimeSpent: 4-5 hours
-Language: Java 7
+Language: Java
 IDE: IntelliJ Idea
 Testing lib: jUnit
+
 
