@@ -15,12 +15,12 @@ public class ElevatorDoorController {
     private IDoorHandler mDoorHandler = new IDoorHandler() {
         @Override
         public void openDoor() {
-            System.console().writer().write("Opening Door");
+            //OpenDoor
         }
 
         @Override
         public void closeDoor() {
-            System.console().writer().write("Closing Door");
+            //CloseDoor
         }
     };
 
